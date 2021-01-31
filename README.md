@@ -1,2 +1,2 @@
 # ML_Week2
-week 2 in section machine ;earning
+week 2 in section machine Learning
